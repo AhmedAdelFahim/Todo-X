@@ -1,0 +1,15 @@
+todo_x/node_modules/**/*
+todo_x/.expo/*
+todo_x/npm-debug.*
+todo_x/*.jks
+todo_x/*.p8
+todo_x/*.p12
+todo_x/*.key
+todo_x/*.mobileprovision
+todo_x/*.orig.*
+todo_x/web-build/
+todo_x/web-report/
+.idea
+todo_x/.idea
+# macOS
+todo_x/.DS_Store
